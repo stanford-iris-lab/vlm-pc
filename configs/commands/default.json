@@ -1,0 +1,200 @@
+{
+    "walk small":{
+    "duration": 3,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [0.4, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    },
+    "walk medium":{
+    "duration": 5,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [0.6, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    },
+    "walk large":{
+    "duration": 7,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [0.6, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    },
+    "backward small": {
+    "duration": 1.5,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [-0.3, 0],
+            "yawSpeed": 0,
+            "bodyHeight": -0.30
+        }
+    },
+    "backward medium": {
+    "duration": 2.5,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [-0.3, 0],
+            "yawSpeed": 0,
+            "bodyHeight": -0.30
+        }
+    },
+    "backward large": {
+    "duration": 5,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 1,
+            "velocity": [-0.3, 0],
+            "yawSpeed": 0,
+            "bodyHeight": -0.30
+        }
+    },
+    "right small": {
+        "duration": 2.5,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.0, 0],
+                "yawSpeed": -0.3,
+                "bodyHeight": -0.3
+            }
+        },
+    "right medium": {
+        "duration": 3.5,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.0, 0],
+                "yawSpeed": -0.3,
+                "bodyHeight": -0.3
+            }
+        },
+    "right large": {
+        "duration": 4.5,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.0, 0],
+                "yawSpeed": -0.3,
+                "bodyHeight": -0.3
+            }
+        },
+        "left small": {
+            "duration": 2.5,
+            "builtin_kwargs":
+                {
+                    "mode": 2,
+                    "gaitType": 1,
+                    "velocity": [0.0, 0],
+                    "yawSpeed": 0.3,
+                    "bodyHeight": -0.3
+                }
+            },
+        "left medium": {
+            "duration": 3.5,
+            "builtin_kwargs":
+                {
+                    "mode": 2,
+                    "gaitType": 1,
+                    "velocity": [0.0, 0],
+                    "yawSpeed": 0.3,
+                    "bodyHeight": -0.3
+                }
+            },
+        "left large": {
+            "duration": 4.5,
+            "builtin_kwargs":
+                {
+                    "mode": 2,
+                    "gaitType": 1,
+                    "velocity": [0.0, 0],
+                    "yawSpeed": 0.3,
+                    "bodyHeight": -0.3
+                }
+            },
+    "crawl small": {
+        "duration": 2,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.3, 0],
+                "bodyHeight": -0.30,
+                "yawSpeed": 0.0
+            }
+        },
+    "crawl medium": {
+        "duration": 3,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.3, 0],
+                "bodyHeight": -0.30,
+                "yawSpeed": 0.0
+            }
+        },
+    "crawl large": {
+        "duration": 4,
+        "builtin_kwargs":
+            {
+                "mode": 2,
+                "gaitType": 1,
+                "velocity": [0.3, 0],
+                "bodyHeight": -0.30,
+                "yawSpeed": 0.0
+            }
+        },
+    "climb small":{
+    "duration": 6,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 3,
+            "velocity": [0.6, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    },
+    "climb medium":{
+    "duration": 9,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 3,
+            "velocity": [0.6, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    },
+    "climb large":{
+    "duration": 12,
+    "builtin_kwargs":
+        {
+            "mode": 2,
+            "gaitType": 3,
+            "velocity": [0.6, 0],
+            "yawSpeed": 0,
+            "bodyHeight": 0.0
+        }
+    }
+}

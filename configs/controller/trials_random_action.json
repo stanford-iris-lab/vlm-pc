@@ -1,0 +1,7 @@
+{
+    "ControllerClass": "OpenChat_VLM_HL_Controller",
+    "ControllerConfig": {
+      "opening_query_text": "",
+      "sucessive_text": ""
+    }
+}

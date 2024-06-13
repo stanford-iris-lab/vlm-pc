@@ -1,0 +1,1 @@
+scp -r *.py controllers configs unitree@192.168.12.1:~/vlm_loco
