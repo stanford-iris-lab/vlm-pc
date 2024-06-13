@@ -1,3 +1,4 @@
 gpt4_key.py
 log/
 *.zip
+.DS_Store
