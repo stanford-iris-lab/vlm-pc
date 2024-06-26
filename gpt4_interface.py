@@ -10,6 +10,7 @@ import time
 # import sys
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
+GPT4V_KEY = os.getenv('OPENAI_API_KEY')
 
 
 def encode_image(image, output_size=(400, 300), quality=85):
