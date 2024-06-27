@@ -9,11 +9,9 @@ Legged robots are physically capable of navigating a diverse variety of environm
 
 ## Hardware Setup
 
-1. Mount camera
+1. Print the mount listed as `frontmount v9.stl` using a 3D printer of your choice (PLA should be fine). Mount your camera into the protected space on the front of the mount, and then mount the assembly through the neck holes of the robot, such that the camera mount hangs over the robot's head.
 
-TODO Andy
-
-2. Chose one of your Go1 Edu's Nanos. Use a USB hub to connect this Nano to a USB wifi adapter and the realsense camera on the front of the robot.
+4. Chose one of your Go1 Edu's Nanos. Use a USB hub to connect this Nano to a USB wifi adapter and the realsense camera on the front of the robot.
 
 
 
